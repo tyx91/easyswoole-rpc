@@ -16,7 +16,7 @@
         "ext-swoole": ">=4.4.5",
         "ext-json": ">=1.0",
         "ext-openssl": ">=7.1",
-        "easyswoole/spl": "^1.0",
+        "easyswoole/spl": "^2.0",
         "easyswoole/utility": "^1.0",
         "easyswoole/component": "^2.0",
         "ext-sockets": "*"
